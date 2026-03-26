@@ -1,0 +1,5 @@
+{
+  "name": "EACA Clinical Assistant",
+  "description": "Expert second opinion for Community Health Volunteers in East Africa to triage febrile children under 5.",
+  "requestFramePermissions": ["camera"]
+}
